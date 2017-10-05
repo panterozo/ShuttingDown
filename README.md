@@ -1,27 +1,8 @@
-# Sitio Web Formulario KYC Ejecutivo
+# GUI para apagar o reiniciar el PC
 
-Sitio web creado para el llenado de información por parte del ejecutivo en el formulario KYC
+Desarrollado en C#
 
 ### Prerequisitos
 
-Programa que corre en Visual Studio 2010, con MVC 3
+Programa que corre en Visual Studio 2010
 
-### Installing
-
-El proyecto debe compilarse, y luego ser publicado en servidor de aplicaciones IIS
-
-## Versiones
-
-Este proyecto reemplazará aplicativo flex siguiente: http://quilimari.larrainvial.com/GUIFlex/FLEX_Formulario_KYC.git
-
-Éste, había sido instalado en http://intranet.larrainvial.com/formularioKYC/Formulario_KYC.aspx
-
-
-## Autores
-
-* **Ignacio Álvarez** - *Trabajo inicial y puesta en marcha* 
-
-## Licencia
-Producto de LarrainVial
-
-[![N|Solid](https://larrainvial.com/content/images/logo.jpg)](https://www.larrainvial.com)
